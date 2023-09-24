@@ -1,0 +1,15 @@
+ <!DOCTYPE html>
+<html>
+<head>
+    <title>Chuck Norris Jokes</title>
+</head>
+<body>
+    <h1>Chuck Norris Jokes</h1>
+    <p id="joke"></p>
+    <button id="getJoke">Получить шутку о Чаке Норрисе</button>
+
+    <script src="index.js">
+     
+    </script>
+</body>
+</html> 
